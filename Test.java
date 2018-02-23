@@ -7,4 +7,8 @@ public Test {
 			return new Test();
 		}
 	}
+	
+	class TestFuther1 {
+		System.out.println("just test ");
+	}
 }
