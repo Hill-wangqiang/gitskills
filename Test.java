@@ -7,4 +7,7 @@ public Test {
 			return new Test();
 		}
 	}
+	class TestMaster {
+		System.out.println("just test master");
+	}
 }
