@@ -7,13 +7,13 @@ public Test {
 			return new Test();
 		}
 	}
-<<<<<<< HEAD
+	
 	class TestMaster {
 		System.out.println("just test master");
-=======
+
 	
 	class TestFuther1 {
 		System.out.println("just test ");
->>>>>>> future1
+
 	}
 }
