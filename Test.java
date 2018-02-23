@@ -6,14 +6,13 @@ public Test {
 		public Test getInstance() {
 			return new Test();
 		}
-	}
-	
+
 	class TestMaster {
 		System.out.println("just test master");
 
-	
+	}
 	class TestFuther1 {
-		System.out.println("just test ");
+		System.out.println("just test !!!!!!!!!!!!!!");
 
 	}
 }
